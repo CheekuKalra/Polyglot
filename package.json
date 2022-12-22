@@ -15,7 +15,7 @@
     "body-parser": "^1.19.0",
     "dburi": "0.0.0",
     "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongodb": "^3.3.3",
     "mongoose": "^5.7.7",
     "mongoose-unique-validator": "^2.0.3",
